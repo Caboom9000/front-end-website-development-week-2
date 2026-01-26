@@ -1,3 +1,20 @@
+body {
+  background-color: #F4B87B;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #532213;
+}
+
+h2{
+    color: #532213;
+}
+
 p {
-    color: green;
+    color: #585123;
+}
+
+ul {
+    color: #585123;
 }
