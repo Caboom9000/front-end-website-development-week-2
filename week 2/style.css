@@ -5,6 +5,32 @@ body {
 
 h1 {
   color: #532213;
+  font-size: 40px;
+  text-align: center;
+}
+
+.image {
+
+    display: block;
+
+    margin: auto;
+
+}
+
+.box {
+
+  background-color: #b56b3a;
+
+  padding-top: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-right: 500px;
+  margin-left: 500px;
+
 }
 
 h2{
@@ -15,6 +41,11 @@ p {
     color: #585123;
 }
 
-ul {
+ol,ul { 
     color: #585123;
+    font-size: 18px;
+}
+
+.highlight {
+    background-color: yellow;
 }
