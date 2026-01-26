@@ -6,12 +6,17 @@ body {
 }
 
 h1 {
+    font-family: "Imperial Script", cursive;
     font-size: 75px;
     color: #2E242B;
+    margin: 15px;
 }
 
 h2 {
+    font-family: "Imperial Script", cursive;
+    font-size: 50px;
     color: #4B3B47;
+    margin: 15px;
 }
 
 ul, ol {
