@@ -24,6 +24,12 @@ ul, ol {
     font-size: 20px;
 }
 
+li {
+
+    text-align: center;
+
+}
+
 .imperial-script-regular {
   font-family: "Imperial Script", cursive;
   font-weight: 400;
