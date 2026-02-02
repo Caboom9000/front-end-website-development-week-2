@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Imperial+Script&display=swap');
+
+body {
+    text-align: center;
+    background-color: #9C9990;
+}
+
+h1 {
+    font-family: "Imperial Script", cursive;
+    font-size: 75px;
+    color: #2E242B;
+    margin: 15px;
+}
+
+h2 {
+    font-family: "Imperial Script", cursive;
+    font-size: 50px;
+    color: #4B3B47;
+    margin: 15px;
+}
+
+ul, ol {
+    color: #CFD2B2;
+    font-size: 20px;
+}
+
+li {
+
+    text-align: center;
+
+}
+
+.imperial-script-regular {
+  font-family: "Imperial Script", cursive;
+  font-weight: 400;
+  font-style: normal;
+}   
